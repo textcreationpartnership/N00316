@@ -113,8 +113,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000392_0000_0FA556F17ABF0830"/>
-            <pb facs="tcp:000392_0001_0FA556F231AF7F68"/>
+            <pb facs="unknown:000392_0000_0FA556F17ABF0830"/>
+            <pb facs="unknown:000392_0001_0FA556F231AF7F68"/>
             <p>AN ELEGY ON The Much-to-be-deplored DEATH <hi>OF That Never-to-be-forgotten PERSON,</hi> The Reverend Mr. <hi>NATHANAEL COLLINS;</hi>
             </p>
             <p>Who After he had been many years a <hi>faithful</hi> Pastor to the Church at <hi>Middletown</hi> of <hi>Connecticut</hi> in <hi>New-England,</hi> about the <hi>Forty third</hi> year of his Age Expired; On 28<hi>th.</hi> 10. <hi>moneth</hi> 1684.</p>
@@ -133,7 +133,7 @@
                <hi>BOSTON in NEW-ENGLAND</hi> Printed by <hi>Richard Pierce</hi> for <hi>Obadiah Gill.</hi> Anno Christi 1685.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:000392_0002_0FA556F347156290"/>
+            <pb facs="unknown:000392_0002_0FA556F347156290"/>
             <opener>
                <salute>Reader;</salute>
             </opener>
@@ -141,7 +141,7 @@
                   <desc>•</desc>
                </gap> 
                <hi>for not counting that Exercise beneath him. But there seems more needful an Excuse for the meaness of</hi> this <hi>Composure,</hi> which-<hi>is</hi> born before its Time <hi>from a Brain</hi> disus'd <hi>to such Performances;</hi> in which <hi>I have been so farr from the accuracy of</hi> Virgil, <hi>who having laid out</hi> eleven years <hi>upon his</hi> AEneids, <hi>after all judged them not</hi> polished <hi>enough to be</hi> published, <hi>that a few</hi> stolen hours <hi>were all I had to shape them in, and</hi> to which <hi>I could never have been drawn, if the</hi> Subject of <hi>these</hi> Rhythmes, <hi>had like the Gentleman in</hi> Thuanus <hi>upon his Death-bed, given sufficient caution</hi> That his Herse should not be burdened with <hi>bad</hi> Funeral verses. <hi>For</hi> this, <hi>my utmost Plea is, That the sense of</hi> Duty, <hi>awak<g ref="char:EOLhyphen"/>ened by the invitation of</hi> others <hi>hereunto, has
-<pb facs="tcp:000392_0003_0FA556F793455598"/>
+<pb facs="unknown:000392_0003_0FA556F793455598"/>
 produced this</hi> Rapsody, <hi>for a</hi> Censure <hi>on which, I appeal from</hi> Curiosity <hi>to</hi> Candour, <hi>expecting no</hi> Laurel <hi>on this occasion but what I merit by my good Affection to the</hi> Memory <hi>of a</hi> True Is<g ref="char:EOLhyphen"/>raelite <hi>worthy to be</hi> had in Everlasting Re<g ref="char:EOLhyphen"/>membrance.</p>
             <closer>
                <signed>C. M.</signed>
@@ -150,7 +150,7 @@ produced this</hi> Rapsody, <hi>for a</hi> Censure <hi>on which, I appeal from</
       </front>
       <body>
          <div type="poem">
-            <pb n="1" facs="tcp:000392_0004_0FA556F912C74BF8"/>
+            <pb n="1" facs="unknown:000392_0004_0FA556F912C74BF8"/>
             <head>FUNERAL-TEARS At the Grave of The much Desired And Lamented Mr. NATHANEEL COLLINS? Who changed Death for LIFE, December, 28. 1684.</head>
             <lg>
                <l>—But shall he unobserved steal away?</l>
@@ -204,7 +204,7 @@ produced this</hi> Rapsody, <hi>for a</hi> Censure <hi>on which, I appeal from</
                      </gap>
                   </note> given. Reader, shake to hear;</l>
                <l>
-                  <pb n="2" facs="tcp:000392_0005_0FA556FA7B23A9E8"/>
+                  <pb n="2" facs="unknown:000392_0005_0FA556FA7B23A9E8"/>
                   <hi>The DEATH of COLLINS tis.</hi> 
                   <gap reason="illegible: indecipherable" extent="2 words">
                      <desc>〈◊◊〉</desc>
@@ -257,7 +257,7 @@ produced this</hi> Rapsody, <hi>for a</hi> Censure <hi>on which, I appeal from</
                   </note>
                </l>
                <l>
-                  <pb n="3" facs="tcp:000392_0006_0FA556FB6F70B2F8"/>
+                  <pb n="3" facs="unknown:000392_0006_0FA556FB6F70B2F8"/>
 I found her. There amaz'd into a <hi>Tree</hi>
                   <note n="o" place="bottom">
                      <hi>all to such a</hi> metamorphosis <hi>celebrated in Ovid.</hi>
@@ -319,7 +319,7 @@ I found her. There amaz'd into a <hi>Tree</hi>
                <l>Seems now to be my only <hi>Principle.</hi>
                </l>
                <l>
-                  <pb n="4" facs="tcp:000392_0007_0FA556FBF127A610"/>
+                  <pb n="4" facs="unknown:000392_0007_0FA556FBF127A610"/>
 Once did I <hi>prise,</hi> I'l now <hi>praise</hi> what I had.</l>
                <l>The <hi>box</hi> of his Fames <hi>Oyntment</hi>
                   <note n="*" place="bottom">
@@ -377,7 +377,7 @@ Once did I <hi>prise,</hi> I'l now <hi>praise</hi> what I had.</l>
                </l>
                <l>Below whose <hi>Majesty</hi> his <hi>skill</hi> would fall.</l>
                <l>
-                  <pb n="5" facs="tcp:000392_0008_0FA556FCC6AF9BE0"/>
+                  <pb n="5" facs="unknown:000392_0008_0FA556FCC6AF9BE0"/>
 I would that you, my friend, <gap reason="illegible: indecipherable" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>
@@ -444,7 +444,7 @@ I would that you, my friend, <gap reason="illegible: indecipherable" extent="1 s
                   </hi>
                </l>
                <l>
-                  <pb n="6" facs="tcp:000392_0009_0FA556FD82088DB8"/>
+                  <pb n="6" facs="unknown:000392_0009_0FA556FD82088DB8"/>
 But Oh the <hi>fruits</hi> of Heav'nly <hi>Graces</hi> dew</l>
                <l>Upon so rich a <hi>soyl!</hi> Let <hi>Peter</hi> bid.</l>
                <l>His <hi>Brethren</hi> add one graces <hi>pearl</hi> unto</l>
@@ -496,7 +496,7 @@ But Oh the <hi>fruits</hi> of Heav'nly <hi>Graces</hi> dew</l>
                      <hi>Exod.</hi> 34. 35</note>
                </l>
                <l>
-                  <pb n="7" facs="tcp:000392_0010_0FA556FEC553EFF8"/>
+                  <pb n="7" facs="unknown:000392_0010_0FA556FEC553EFF8"/>
 Yare at his GRAMMER, kenning <hi>how</hi> and <hi>when</hi>
                </l>
                <l>To speak: his <hi>tongue</hi> a <note n="*" place="bottom">
@@ -558,7 +558,7 @@ Yare at his GRAMMER, kenning <hi>how</hi> and <hi>when</hi>
                   <hi>praise.</hi>
                </l>
                <l>
-                  <pb n="8" facs="tcp:000392_0011_0FA557005FBB8130"/>
+                  <pb n="8" facs="unknown:000392_0011_0FA557005FBB8130"/>
                   <hi>Master of</hi> all the <hi>Arts</hi> that shew us what</l>
                <l>Tis from each <hi>Bad</hi> unto each <hi>Good</hi> to goe;</l>
                <l>To all his <hi>Knowledge</hi> last subjoyning <hi>that,</hi> 
@@ -617,7 +617,7 @@ Yare at his GRAMMER, kenning <hi>how</hi> and <hi>when</hi>
                   </note> ne're be sent.</l>
             </lg>
             <lg>
-               <pb n="9" facs="tcp:000392_0012_0FA55700C1949638"/>
+               <pb n="9" facs="unknown:000392_0012_0FA55700C1949638"/>
                <l>And under <hi>Provocation,</hi> 'twas a care</l>
                <l>By him maintaind to <hi>smile Affronts away.</hi>
                </l>
@@ -661,7 +661,7 @@ Yare at his GRAMMER, kenning <hi>how</hi> and <hi>when</hi>
                   <hi>for thee alone.</hi>
                </l>
                <l>
-                  <pb n="10" facs="tcp:000392_0013_0FA557013239F0D0"/>
+                  <pb n="10" facs="unknown:000392_0013_0FA557013239F0D0"/>
 How <hi>James</hi>-like were his <note n="‖" place="bottom">
                      <hi>of whom Ecclesiastical History relates, that his</hi> hard<g ref="char:EOLhyphen"/>ned knees <hi>wore the Badges of his</hi> hard prayers.</note> 
                   <hi>Pray'rs,</hi> how did the <hi>word</hi>
@@ -716,7 +716,7 @@ How <hi>James</hi>-like were his <note n="‖" place="bottom">
                   <hi>COLLINS made up of Love,</hi> we us'd to cry.</l>
             </lg>
             <lg>
-               <pb n="11" facs="tcp:000392_0014_0FA55705623B1F60"/>
+               <pb n="11" facs="unknown:000392_0014_0FA55705623B1F60"/>
                <l>An <hi>Injury</hi> seldom resenting more</l>
                <l>Than <hi>Cranmer</hi> or the <hi>Martyrologer</hi>
                   <note n="*" place="bottom">
@@ -761,7 +761,7 @@ How <hi>James</hi>-like were his <note n="‖" place="bottom">
                <l>All in a near unimitable Strain:</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:000392_0015_0FA55706A12951A0"/>
+               <pb n="12" facs="unknown:000392_0015_0FA55706A12951A0"/>
                <l>What <hi>undasht</hi>
                   <note n="†" place="bottom">
                      <hi>all. to</hi> 2. Cor. 2. 17. gr.</note> 
@@ -823,7 +823,7 @@ How <hi>James</hi>-like were his <note n="‖" place="bottom">
                <l>He was a <hi>furnisht</hi> Gospel-Orator.</l>
             </lg>
             <lg>
-               <pb n="13" facs="tcp:000392_0016_0FA557073B464930"/>
+               <pb n="13" facs="unknown:000392_0016_0FA557073B464930"/>
                <l>How many <note n="*" place="bottom">
                      <hi>all. to. Act.</hi> 16. 14.</note> 
                   <hi>Lydian</hi>-hearts reputed him</l>
@@ -880,7 +880,7 @@ How <hi>James</hi>-like were his <note n="‖" place="bottom">
                </l>
             </lg>
             <lg>
-               <pb n="14" facs="tcp:000392_0017_0FA55708034451A8"/>
+               <pb n="14" facs="unknown:000392_0017_0FA55708034451A8"/>
                <l>More would I say but Heart-corroding <hi>Anguish,</hi>
                </l>
                <l>Layes that check on me, <hi>you have lost him now.</hi>
@@ -937,7 +937,7 @@ How <hi>James</hi>-like were his <note n="‖" place="bottom">
                <l>After his Master, <hi>next year</hi> brings a wo</l>
             </lg>
             <lg>
-               <pb n="15" facs="tcp:000392_0018_0FA55708DF336570"/>
+               <pb n="15" facs="unknown:000392_0018_0FA55708DF336570"/>
                <l>I fear of both sorts now <note n="[c]" place="bottom">
                      <hi>Some have observed,</hi> that the <hi>Death</hi> of a faithful <hi>Minister</hi> in a place where he hath done God much service, is oft attended with a great Mortality among other persons in that place. <hi>
                         <gap reason="illegible: indecipherable" extent="1 letter">
@@ -985,7 +985,7 @@ How <hi>James</hi>-like were his <note n="‖" place="bottom">
                </l>
             </lg>
             <lg>
-               <pb facs="tcp:000392_0019_0FA55709D1F8F3C0"/>
+               <pb facs="unknown:000392_0019_0FA55709D1F8F3C0"/>
                <l>
                   <hi>Farewel, thou world of</hi>
                   <note n="*" place="bottom">
@@ -1054,7 +1054,7 @@ How <hi>James</hi>-like were his <note n="‖" place="bottom">
                <l>Of the <hi>blest Shade</hi> himself we then might hear.</l>
             </lg>
             <lg>
-               <pb n="18" facs="tcp:000392_0020_0FA5570B56307F08"/>
+               <pb n="18" facs="unknown:000392_0020_0FA5570B56307F08"/>
                <l>FOND <hi>Mortals,</hi> wipe your eyes (said he) pray</l>
                <l>That <hi>liquor</hi> for your selves. <note n="*" place="bottom">
                      <hi>all. to Luk,</hi> 23 28.</note> poor <hi>Envy</hi> 'tis</l>
@@ -1104,7 +1104,7 @@ How <hi>James</hi>-like were his <note n="‖" place="bottom">
                <l>As much of GOD as entertain I can.</l>
             </lg>
             <lg>
-               <pb n="19" facs="tcp:000392_0021_0FA5570BB619F5D8"/>
+               <pb n="19" facs="unknown:000392_0021_0FA5570BB619F5D8"/>
                <l>I <hi>Know,</hi> I <hi>Live,</hi> I <hi>Love;</hi> But <hi>how?</hi> forbear</l>
                <l>To be inquisitive: It can't be told</l>
                <l>TO <hi>you;</hi> No, tho you all <note n="k" place="bottom">
@@ -1157,7 +1157,7 @@ How <hi>James</hi>-like were his <note n="‖" place="bottom">
                         </gap> shaddow of</hi> ETERNITY</note> that over us may roll.</l>
             </lg>
             <lg>
-               <pb n="20" facs="tcp:000392_0022_0FA5570C71615F68"/>
+               <pb n="20" facs="unknown:000392_0022_0FA5570C71615F68"/>
                <l>A <hi>PERIOD</hi> this puts to the <hi>Tragedy.</hi>
                </l>
                <l>
